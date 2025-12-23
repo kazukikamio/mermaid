@@ -22,4 +22,3 @@ sequenceDiagram
     participant P fill:#FFF9C4,stroke:#F9A825,color:#F57F17
     participant S fill:#C8E6C9,stroke:#43A047,color:#1B5E20
     participant G fill:#FFCC80,stroke:#FB8C00,color:#E65100
-
